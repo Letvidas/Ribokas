@@ -10,7 +10,14 @@ This android app is ment for Fishers all over the world. Users will be able to B
 2. DOMAS DALEKAS (PROGRAMER)
 3. ANDRIUS VISOCKAS (DB SPECIALIST)
 
+### CONTACTS
+
+* If you have problems, questions feel free to contacting us via DiscordApp users:
+1. defrostbuff#9553
+2. krk#5783 
+3. California#3924
+
 ### NOTICE
 
 Dear, @Developers and @Users
-This Program is still work in progress, so feel free to point out any mistakes and give your advic
+This Program is still work in progress, so feel free to point out any mistakes and give your advice.
